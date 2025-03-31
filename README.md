@@ -34,6 +34,10 @@ TBA - Standalone game concept, currently being drafted.
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/pterodactyl-%23ffcc00.svg?style=for-the-badge&logo=pterodactyl&logoColor=white)
+### Monitoring
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/influxdb-22ADF6.svg?style=for-the-badge&logo=influxdb&logoColor=white)
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
