@@ -1,8 +1,8 @@
 ## Baflle | Professional Dumbass
 
-Hi, I'm Frankie. I go online by "Baflle."
+Hi, I'm Frankie. I go by "Baflle" online.
 
-My current project is the ![CraterCraft Network](https://github.com/CraterCraft-Network)- a minigames network focused on bringing unique and innovative experiences to Minecraft.
+My current project is the [CraterCraft Network](https://github.com/CraterCraft-Network)- a minigames network focused on bringing unique and innovative experiences to Minecraft.
 
 ## Tech Stack
 ### Databases
