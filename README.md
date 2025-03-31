@@ -4,6 +4,12 @@ Hi, I'm Frankie. I go by "Baflle" online.
 
 My current project is the [CraterCraft Network](https://github.com/CraterCraft-Network)- a minigames network focused on bringing unique and innovative experiences to Minecraft.
 
+## Projects
+
+[CraterCraft Network](https://github.com/CraterCraft-Network) - An upcoming Minecraft minigams network. Currently being reworked in Kotlin.
+[Nimbus Network](https://github.com/NimbusNetworkMC) - An upcoming Minecraft Skyblock server.
+TBA - Standalone game concept, currently being drafted.
+
 ## Tech Stack
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
