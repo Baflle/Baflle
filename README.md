@@ -6,7 +6,7 @@ My current project is the [CraterCraft Network](https://github.com/CraterCraft-N
 
 ## Projects
 
-[CraterCraft Network](https://github.com/CraterCraft-Network) - An upcoming Minecraft minigams network. Currently being reworked in Kotlin.
+[CraterCraft Network](https://github.com/CraterCraft-Network) - An upcoming Minecraft minigames network. Currently being reworked in Kotlin.
 
 [Nimbus Network](https://github.com/NimbusNetworkMC) - An upcoming Minecraft Skyblock server.
 
