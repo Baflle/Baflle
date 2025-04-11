@@ -12,6 +12,8 @@ My current project is the [CraterCraft Network](https://github.com/CraterCraft-N
 
 TBA - Standalone game concept, currently being drafted.
 
+TBA - A lightweight program for remote gaming for local Windows devices.
+
 ## Tech Stack
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
