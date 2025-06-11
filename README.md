@@ -7,7 +7,7 @@ Hi, I'm Baflle. I'm the Lead at Driftleaf Studios.
 | Project            | Description                              | Status     |
 | ------------------ | ---------------------------------------- | ---------- |
 | CraterCraft Network | Minecraft Minigames Network | In Development |
-| Nimbus Network | Bringing back vanilla Minecraft gamemodes- with a twist. | Early Dev |
+| Coldbrew | For Developers. By Developers. Backend infrastructure made easy. | Drafting |
 
 ## Links
 
